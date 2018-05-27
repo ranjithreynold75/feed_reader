@@ -31,6 +31,3 @@ New Feed Selection:
 -   Clone the repository.
 -   Run index.html file.
 
-## Screenshot[Results]
-
-![Test Result](Result/screenshot.JPG)
